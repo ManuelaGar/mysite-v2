@@ -54,6 +54,10 @@ hr {
   padding-top: 100px;
 }
 
+.description {
+  line-height: 2;
+}
+
 .middle-container {
   margin: 100px auto;
 }
